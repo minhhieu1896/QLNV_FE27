@@ -244,6 +244,10 @@ var Controller = (function (model, view) {
         return str;
     };
 
+    function testGithub() {
+        console.log("hello nmh :)");
+    }
+
     return {
         init: function (){
             console.log('App has started!');
