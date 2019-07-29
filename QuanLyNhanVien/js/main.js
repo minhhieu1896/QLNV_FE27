@@ -245,7 +245,11 @@ var Controller = (function (model, view) {
     };
 
     function testGithub() {
+<<<<<<< HEAD
+        console.log("hello nmh :)");
+=======
         console.log("hello github");
+>>>>>>> master
     }
 
     return {
